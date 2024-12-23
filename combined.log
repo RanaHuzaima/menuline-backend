@@ -1,0 +1,43 @@
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-23T19:32:28.839Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-23T19:32:42.449Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-23T19:35:54.928Z"}
+{"level":"info","message":"Server is running on port h3000","timestamp":"2024-12-23T19:36:08.264Z"}
+{"level":"info","message":"Server is running on port http:3000","timestamp":"2024-12-23T19:36:10.836Z"}
+{"level":"info","message":"Server is running on port http://3000","timestamp":"2024-12-23T19:36:13.776Z"}
+{"level":"info","message":"Server is running on port http://localhost:3000","timestamp":"2024-12-23T19:36:18.479Z"}
+{"level":"info","message":"Server is running on port http://localhost:3000","timestamp":"2024-12-23T19:36:21.027Z"}
+{"level":"info","message":"::1 - - [23/Dec/2024:19:36:22 +0000] \"GET / HTTP/1.1\" 404 139 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\"","timestamp":"2024-12-23T19:36:22.635Z"}
+{"level":"info","message":"::1 - - [23/Dec/2024:19:36:26 +0000] \"GET /firebase-messaging-sw.js HTTP/1.1\" 404 163 \"http://localhost:3000/firebase-messaging-sw.js\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\"","timestamp":"2024-12-23T19:36:26.139Z"}
+{"level":"info","message":"::1 - - [23/Dec/2024:19:37:38 +0000] \"POST /api/auth/register HTTP/1.1\" 201 1052 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2024-12-23T19:37:38.210Z"}
+{"level":"info","message":"::1 - - [23/Dec/2024:19:38:52 +0000] \"POST /api/auth/login HTTP/1.1\" 200 3141 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2024-12-23T19:38:52.274Z"}
+{"level":"info","message":"::1 - - [23/Dec/2024:19:40:50 +0000] \"GET /api/menu HTTP/1.1\" 200 30 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2024-12-23T19:40:50.799Z"}
+{"level":"info","message":"Server is running on port http://localhost:3000","timestamp":"2024-12-23T19:43:53.046Z"}
+{"level":"info","message":"Server is running on port http://localhost:3000","timestamp":"2024-12-23T19:43:59.665Z"}
+{"level":"info","message":"Server is running on port http://localhost:3000","timestamp":"2024-12-23T19:44:53.253Z"}
+{"level":"info","message":"Server is running on port http://localhost:3000","timestamp":"2024-12-23T19:46:16.198Z"}
+{"level":"info","message":"Server is running on port http://localhost:3000","timestamp":"2024-12-23T19:46:19.464Z"}
+{"level":"info","message":"Server is running on port http://localhost:3000","timestamp":"2024-12-23T19:46:24.138Z"}
+{"level":"info","message":"Server is running on port http://localhost:3000","timestamp":"2024-12-23T19:48:07.607Z"}
+{"level":"info","message":"Server is running on port http://localhost:3000","timestamp":"2024-12-23T19:48:45.028Z"}
+{"level":"info","message":"Server is running on port http://localhost:3000","timestamp":"2024-12-23T19:48:54.457Z"}
+{"level":"info","message":"Server is running on port http://localhost:3000","timestamp":"2024-12-23T19:48:56.220Z"}
+{"level":"info","message":"Server is running on port http://localhost:3000","timestamp":"2024-12-23T19:49:04.886Z"}
+{"level":"info","message":"::1 - - [23/Dec/2024:19:50:00 +0000] \"POST /api/auth/register HTTP/1.1\" 201 125 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2024-12-23T19:50:00.894Z"}
+{"level":"info","message":"::1 - - [23/Dec/2024:19:50:12 +0000] \"POST /api/auth/login HTTP/1.1\" 200 380 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2024-12-23T19:50:12.940Z"}
+{"level":"error","message":"Error: \"email\" is required, \"password\" is required, \"name\" is not allowed, \"description\" is not allowed, \"price\" is not allowed, \"category\" is not allowed, \"is_available\" is not allowed\n    at C:\\Users\\feroz\\Downloads\\menuline-backend\\src\\middleware\\validate.js:15:17\n    at Layer.handle [as handle_request] (C:\\Users\\feroz\\Downloads\\menuline-backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\feroz\\Downloads\\menuline-backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\feroz\\Downloads\\menuline-backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\feroz\\Downloads\\menuline-backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\feroz\\Downloads\\menuline-backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\feroz\\Downloads\\menuline-backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\feroz\\Downloads\\menuline-backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\feroz\\Downloads\\menuline-backend\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\feroz\\Downloads\\menuline-backend\\node_modules\\express\\lib\\router\\index.js:47:12)","timestamp":"2024-12-23T19:53:47.846Z"}
+{"level":"info","message":"::1 - - [23/Dec/2024:19:53:47 +0000] \"POST /api/auth/login HTTP/1.1\" 400 223 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2024-12-23T19:53:47.851Z"}
+{"level":"info","message":"::1 - - [23/Dec/2024:19:54:06 +0000] \"POST /api/menu HTTP/1.1\" 201 224 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2024-12-23T19:54:06.533Z"}
+{"level":"info","message":"::1 - - [23/Dec/2024:19:55:37 +0000] \"GET /api/menu HTTP/1.1\" 200 226 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2024-12-23T19:55:37.698Z"}
+{"level":"error","message":"Error: \"items\" is required, \"quantity\" is not allowed, \"price\" is not allowed, \"menu_item_id\" is not allowed\n    at C:\\Users\\feroz\\Downloads\\menuline-backend\\src\\middleware\\validate.js:15:17\n    at Layer.handle [as handle_request] (C:\\Users\\feroz\\Downloads\\menuline-backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\feroz\\Downloads\\menuline-backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at authenticateToken (C:\\Users\\feroz\\Downloads\\menuline-backend\\src\\middleware\\auth.js:15:5)\n    at Layer.handle [as handle_request] (C:\\Users\\feroz\\Downloads\\menuline-backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\feroz\\Downloads\\menuline-backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\feroz\\Downloads\\menuline-backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\feroz\\Downloads\\menuline-backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\feroz\\Downloads\\menuline-backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\feroz\\Downloads\\menuline-backend\\node_modules\\express\\lib\\router\\index.js:346:12)","timestamp":"2024-12-23T19:58:20.787Z"}
+{"level":"info","message":"::1 - - [23/Dec/2024:19:58:20 +0000] \"POST /api/orders HTTP/1.1\" 400 140 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2024-12-23T19:58:20.791Z"}
+{"level":"info","message":"Server is running on port http://localhost:3000","timestamp":"2024-12-23T19:59:19.910Z"}
+{"level":"info","message":"Server is running on port http://localhost:3000","timestamp":"2024-12-23T20:00:46.863Z"}
+{"level":"info","message":"Server is running on port http://localhost:3000","timestamp":"2024-12-23T20:01:35.865Z"}
+{"level":"info","message":"::1 - - [23/Dec/2024:20:01:43 +0000] \"POST /api/orders HTTP/1.1\" 201 210 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2024-12-23T20:01:43.648Z"}
+{"level":"info","message":"Server is running on port http://localhost:3000","timestamp":"2024-12-23T20:03:26.593Z"}
+{"level":"info","message":"::1 - - [23/Dec/2024:20:03:47 +0000] \"POST /api/auth/login HTTP/1.1\" 200 380 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2024-12-23T20:03:47.909Z"}
+{"level":"info","message":"Server is running on port http://localhost:3000","timestamp":"2024-12-23T20:04:23.424Z"}
+{"level":"info","message":"::1 - - [23/Dec/2024:20:04:35 +0000] \"POST /api/auth/login HTTP/1.1\" 200 380 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2024-12-23T20:04:35.041Z"}
+{"level":"info","message":"Server is running on port http://localhost:4000","timestamp":"2024-12-23T20:05:45.707Z"}
+{"level":"info","message":"::1 - - [23/Dec/2024:20:06:48 +0000] \"POST /api/auth/login HTTP/1.1\" 200 380 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2024-12-23T20:06:48.048Z"}
+{"level":"info","message":"::1 - - [23/Dec/2024:20:10:03 +0000] \"GET /api/menu HTTP/1.1\" 200 226 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2024-12-23T20:10:03.420Z"}
