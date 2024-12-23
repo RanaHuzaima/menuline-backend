@@ -5,6 +5,7 @@
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
+    "build": "node src/index.js",
     "test": "jest",
     "lint": "eslint src/**/*.js",
     "format": "prettier --write 'src/**/*.js'"
